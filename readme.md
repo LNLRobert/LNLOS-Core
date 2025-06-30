@@ -8,6 +8,8 @@ Open your printer.cfg file, and uncomment (remove the "#") symbol before each of
 
 Find the following sections and uncomment the appropriate line -> Board Assignment, Machine Assignment, and Sensors 
 
+Printer 1 will use the upper rear usb port on the pad, and printer 2 will use the lower rear usb port.
+
 Completed Sections will look like the following:
 
 ############################################################
